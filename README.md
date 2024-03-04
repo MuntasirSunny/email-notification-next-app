@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Sending Email Notification API:
 
-Sending Email Notification API endpoint: [http://localhost:3000/api/notification](http://localhost:3000/api/notification) with postman/ your app to see the result.
+Sending Email Notification API endpoint (POST): [http://localhost:3000/api/notification](http://localhost:3000/api/notification) with postman/ your app to see the result.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
